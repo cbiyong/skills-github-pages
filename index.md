@@ -1,4 +1,6 @@
 ---
 title: Welcome to my blog!
 ---
-#This is my first day!!!!
+
+#This is my first blog!!!
+
